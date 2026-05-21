@@ -1,0 +1,100 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.2.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1779363307000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "blog-pessoal-dotnet"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "09DB278E-FE4B-4809-9F60-36C1C555757E"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.projectKey",
+      "value": "blog-pessoal-dotnet:09DB278E-FE4B-4809-9F60-36C1C555757E"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.projectName",
+      "value": "BlogPessoal"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.projectBaseDir",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.working.directory",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.sources",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Config\\JwtService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Config\\MappingHelper.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Config\\SwaggerAuthOperationFilter.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Controllers\\IAController.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Controllers\\PostagemController.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Controllers\\TemaController.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Controllers\\UsuarioController.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Data\\AppDbContext.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\DTOs\\ErrorResponseDTO.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\DTOs\\PostagemRequestDTO.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\DTOs\\PostagemResponseDTO.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\DTOs\\ResultadoIA.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\DTOs\\TemaRequestDTO.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\DTOs\\TemaResponseDTO.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\DTOs\\UsuarioRequestDTO.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\DTOs\\UsuarioResponseDTO.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Middlewares\\ErrorHandlingMiddleware.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Migrations\\20260514001359_CriacaoInicial.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Migrations\\20260514001359_CriacaoInicial.Designer.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Migrations\\20260520191851_AdicionaCamposIA.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Migrations\\20260520191851_AdicionaCamposIA.Designer.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Migrations\\AppDbContextModelSnapshot.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Models\\Postagem.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Models\\Tema.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Models\\Usuario.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Models\\UsuarioLogin.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Program.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Repositories\\IPostagemRepository.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Repositories\\ITemaRepository.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Repositories\\IUsuarioRepository.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Repositories\\PostagemRepository.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Repositories\\TemaRepository.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Repositories\\UsuarioRepository.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\IA\\GeminiService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\IA\\IIAService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\IA\\PromptBuilder.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\IPostagemService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\ITemaService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\IUsuarioService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\PostagemService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\TemaService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Services\\UsuarioService.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\BlogPessoal.GlobalUsings.g.cs,\"C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs\",C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\BlogPessoal.AssemblyInfo.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\BlogPessoal.MvcApplicationPartsAssemblyInfo.cs,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\appsettings.Development.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\appsettings.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\BlogPessoal.http,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\Properties\\launchSettings.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\BlogPessoal.csproj.nuget.dgspec.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\project.assets.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\bin\\Debug\\net10.0\\appsettings.Development.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\bin\\Debug\\net10.0\\appsettings.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\bin\\Debug\\net10.0\\BlogPessoal.deps.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\bin\\Debug\\net10.0\\BlogPessoal.runtimeconfig.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\bin\\Debug\\net10.0\\BlogPessoal.staticwebassets.endpoints.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\ApiEndpoints.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\rjsmrazor.dswa.cache.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\rpswa.dswa.cache.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\staticwebassets.build.endpoints.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\staticwebassets.build.json,C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\obj\\Debug\\net10.0\\EndpointInfo\\BlogPessoal.json"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "09DB278E-FE4B-4809-9F60-36C1C555757E.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\Matheus\\Documents\\MONTREAL\\projeto-semana3\\BlogPessoal\\BlogPessoal\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.exclusions",
+      "value": "**/bin/**,**/obj/**,**/Migrations/**"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}
