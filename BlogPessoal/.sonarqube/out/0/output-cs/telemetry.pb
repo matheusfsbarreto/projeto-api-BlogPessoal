@@ -1,1 +1,0 @@
-kR^C:\Users\Matheus\Documents\MONTREAL\projeto-semana3\BlogPessoal\BlogPessoal\BlogPessoal.csprojòCSharp14
