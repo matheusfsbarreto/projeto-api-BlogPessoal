@@ -20,7 +20,6 @@ namespace BlogPessoal.Middlewares
         {
             try
             {
-                // Tenta executar a requisição normalmente
                 await _next(context);
             }
             catch (Exception ex)

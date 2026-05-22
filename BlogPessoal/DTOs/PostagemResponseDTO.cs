@@ -9,7 +9,6 @@
         public TemaResponseDTO? Tema { get; set; }
         public UsuarioResponseDTO? Usuario { get; set; }
 
-        // IA
         public string? ResumoIA { get; set; }
         public string? TagsIA { get; set; }
         public string? CategoriaIA { get; set; }
